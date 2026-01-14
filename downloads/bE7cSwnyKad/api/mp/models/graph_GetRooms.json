@@ -1,0 +1,152 @@
+{
+  "data" : {
+    "model" : {
+      "id" : "bE7cSwnyKad",
+      "rooms" : [ {
+        "id" : "b4qtykzcazp4iumkamm7y7h2b",
+        "meshId" : 12,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : null,
+        "tags" : [ ]
+      }, {
+        "id" : "m8npxsuk79xy21dd09x9wtped",
+        "meshId" : 11,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : null,
+        "tags" : [ ]
+      }, {
+        "id" : "613htqkzf66zz7hf7n8kzszed",
+        "meshId" : 2,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : null,
+          "width" : 6.5332489013671875,
+          "depth" : 1.1505184173583984,
+          "areaFloor" : 8.075499534606934
+        },
+        "tags" : [ "hallway" ]
+      }, {
+        "id" : "cdz3fkt38kae7tapstpt0eaeb",
+        "meshId" : 3,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : null,
+          "width" : 4.025206089019775,
+          "depth" : 2.6992874145507812,
+          "areaFloor" : 10.789299964904785
+        },
+        "tags" : [ "office" ]
+      }, {
+        "id" : "xy2x8mpaaqknp7q2c3nnbw1ma",
+        "meshId" : 4,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : null,
+          "width" : 2.859623432159424,
+          "depth" : null,
+          "areaFloor" : 9.236599922180176
+        },
+        "tags" : [ "kitchen" ]
+      }, {
+        "id" : "tt6gm2a0463x9wmnx7rn6gugc",
+        "meshId" : 5,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : null,
+          "width" : 2.6467418670654297,
+          "depth" : 2.9074087142944336,
+          "areaFloor" : 7.598599910736084
+        },
+        "tags" : [ "bedroom" ]
+      }, {
+        "id" : "h26t7ky77ew74yb0pg8qqf5rd",
+        "meshId" : 6,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : null,
+          "width" : 2.5891921520233154,
+          "depth" : 2.749448299407959,
+          "areaFloor" : 7.420100212097168
+        },
+        "tags" : [ "bedroom" ]
+      }, {
+        "id" : "3m54yff1z7crxaywd8if9rb0d",
+        "meshId" : 7,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : null,
+          "width" : 1.534730076789856,
+          "depth" : 3.496541738510132,
+          "areaFloor" : 6.762400150299072
+        },
+        "tags" : [ "outdoor_other" ]
+      }, {
+        "id" : "2qdmc5i9byxi79ry1pxdkqzea",
+        "meshId" : 8,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : null,
+          "width" : 2.907233476638794,
+          "depth" : null,
+          "areaFloor" : 4.8628997802734375
+        },
+        "tags" : [ "living" ]
+      }, {
+        "id" : "a5f9age4zzxewres6iqux2emc",
+        "meshId" : 9,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : null,
+          "width" : 1.179351568222046,
+          "depth" : 3.2217230796813965,
+          "areaFloor" : 4.028500080108643
+        },
+        "tags" : [ "bathroom" ]
+      }, {
+        "id" : "19ab05tns5h6y4qm42esqqpea",
+        "meshId" : 10,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "dimensions" : {
+          "height" : 2.309999942779541,
+          "width" : 0.9022663235664368,
+          "depth" : 2.6478660106658936,
+          "areaFloor" : 3.2395999431610107
+        },
+        "tags" : [ "bathroom" ]
+      } ]
+    }
+  }
+}

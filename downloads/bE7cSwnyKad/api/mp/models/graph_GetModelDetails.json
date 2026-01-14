@@ -1,0 +1,121 @@
+{
+  "data" : {
+    "model" : {
+      "id" : "bE7cSwnyKad",
+      "name" : "HI 49695472717 - EDIFICIO DUBAY P.H",
+      "visibility" : "public",
+      "discoverable" : true,
+      "state" : "active",
+      "image" : {
+        "id" : "xEeQXKs98JH",
+        "label" : "Kitchen",
+        "classification" : "Kitchen",
+        "category" : "snapshot",
+        "height" : 1620,
+        "width" : 2880,
+        "created" : "2025-12-30T05:52:49Z",
+        "modified" : "2025-12-30T05:52:51Z",
+        "status" : "available",
+        "filename" : "Kitchen.jpg",
+        "format" : "image",
+        "url" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/xEeQXKs98JH/xEeQXKs98JH-Kitchen.jpg?t=2-01063abff04aa0b0594bd1aebd90956423f4d3fa-1768420490-1",
+        "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
+        "type" : "photo2D",
+        "origin" : "vision",
+        "validUntil" : "2026-01-14T19:54:50Z",
+        "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/xEeQXKs98JH/xEeQXKs98JH-Kitchen.jpg?t=2-01063abff04aa0b0594bd1aebd90956423f4d3fa-1768420490-1&width=200&height=140&fit=crop&disable=upscale",
+        "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/xEeQXKs98JH/xEeQXKs98JH-Kitchen.jpg?t=2-01063abff04aa0b0594bd1aebd90956423f4d3fa-1768420490-1&width=1920&height=1080&fit=crop&disable=upscale",
+        "snapshotLocation" : {
+          "viewMode" : "panorama",
+          "position" : {
+            "x" : 1.7178465127944946,
+            "y" : -1.3187865018844604,
+            "z" : 1.5267060995101929
+          },
+          "rotation" : {
+            "x" : 0.6628259702587987,
+            "y" : -0.3525082167297613,
+            "z" : 0.31018859870575066,
+            "w" : -0.5832518064468358
+          },
+          "zoom" : 1.0,
+          "floorVisibility" : [ ],
+          "anchor" : {
+            "id" : "n0tyz69y5ff6zci048nq8sgeb",
+            "pano" : {
+              "id" : "n0tyz69y5ff6zci048nq8sgeb",
+              "placement" : "auto"
+            }
+          }
+        }
+      },
+      "publication" : {
+        "address" : "# 31-166 Carrera 58aa, La Gran Avenida, Bello, Antioquia, 051052, CO",
+        "published" : true,
+        "lastPublished" : null,
+        "presentedBy" : "",
+        "summary" : "",
+        "description" : "",
+        "externalUrl" : null,
+        "contact" : {
+          "name" : "",
+          "email" : "",
+          "phoneNumber" : null
+        }
+      },
+      "options" : {
+        "urlBrandingEnabled" : true,
+        "socialSharingEnabled" : true,
+        "vrEnabled" : true
+      },
+      "assets" : {
+        "meshes" : [ {
+          "id" : "meshes/57bri4z9w94reynsr16n23tsc",
+          "status" : "available",
+          "filename" : "974a3697efd64a2fa290630a191a3039_50k.dam",
+          "format" : "dam",
+          "resolution" : "50k",
+          "url" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/974a3697efd64a2fa290630a191a3039_50k.dam?t=2-c230cfe9b56d33dc5a8dd9a02e9619fefe7f9ceb-1768420490-1",
+          "validUntil" : "2026-01-14T19:54:50Z"
+        } ],
+        "textures" : [ {
+          "id" : "50k-low",
+          "status" : "available",
+          "format" : "jpg",
+          "resolution" : "50k",
+          "quality" : "low",
+          "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/974a3697efd64a2fa290630a191a3039_50k_texture_jpg_low/974a3697efd64a2fa290630a191a3039_50k_<texture>.jpg?t=2-e969e6b8793cd7c0cbf87785776597e9787ae020-1768420490-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+          "validUntil" : "2026-01-14T19:54:50Z"
+        }, {
+          "id" : "50k-high",
+          "status" : "available",
+          "format" : "jpg",
+          "resolution" : "50k",
+          "quality" : "high",
+          "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/974a3697efd64a2fa290630a191a3039_50k_texture_jpg_high/974a3697efd64a2fa290630a191a3039_50k_<texture>.jpg?t=2-e969e6b8793cd7c0cbf87785776597e9787ae020-1768420490-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+          "validUntil" : "2026-01-14T19:54:50Z"
+        } ],
+        "tilesets" : [ {
+          "status" : "available",
+          "tilesetVersion" : "1.2.0",
+          "url" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/mesh_tiles/~/tileset.json?t=2-42c3b8cf1deed86c44878e934d3afe144a56aec8-1768420490-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fmesh_tiles",
+          "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/mesh_tiles/~/<file>?t=2-42c3b8cf1deed86c44878e934d3afe144a56aec8-1768420490-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fmesh_tiles",
+          "validUntil" : "2026-01-14T19:54:50Z",
+          "tilesetDepth" : 3,
+          "tilesetPreset" : "basic2"
+        } ]
+      },
+      "lod" : {
+        "options" : [ "lod2" ]
+      },
+      "overlayLayers" : [ ],
+      "baseView" : {
+        "model" : {
+          "id" : "bE7cSwnyKad"
+        }
+      },
+      "defurnishViews" : [ ],
+      "legacyBaseView" : null
+    }
+  }
+}

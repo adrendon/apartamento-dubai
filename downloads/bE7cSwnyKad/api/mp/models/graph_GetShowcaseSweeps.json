@@ -1,0 +1,2310 @@
+{
+  "data" : {
+    "model" : {
+      "id" : "bE7cSwnyKad",
+      "overlayLayers" : [ ],
+      "baseView" : {
+        "model" : {
+          "id" : "bE7cSwnyKad"
+        }
+      },
+      "defurnishViews" : [ ],
+      "legacyBaseView" : null,
+      "locations" : [ {
+        "id" : "a2i4q4qgrhg5utf5cwi9m3pac",
+        "index" : 1,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "2qdmc5i9byxi79ry1pxdkqzea",
+          "meshId" : 8
+        },
+        "neighbors" : [ "3y1hm7sswgzw7dx1rhhedh64b", "zmitfkbhwhpuhs7ga6mzxcbuc", "3k03auwx742s56uuy10cxdg6d", "rtybab7wzgmkd6g9hznd33adc", "n0tyz69y5ff6zci048nq8sgeb", "rux401gx724wxnckcapqfzkya", "sxseq6aw03g2yqzh1h2q0gpzc", "srbbm7q73dn5p9idwy1f8wb0b", "5raktdiwnwkxxqbt236r9mrda", "efrs393ba5i0strk5st9sq79c", "5rsn5rg0y6wnerdczas8ens6a" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : 0.019328245893120766,
+          "y" : -1.2298831939697266,
+          "z" : -0.003194305580109358
+        },
+        "pano" : {
+          "id" : "a2i4q4qgrhg5utf5cwi9m3pac",
+          "sweepUuid" : "d98ee3374dd24300a0332afa242d9611",
+          "label" : "1",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 0.019328245893120766,
+            "y" : -1.2298831939697266,
+            "z" : 1.5337910652160645
+          },
+          "rotation" : {
+            "x" : 0.006776071153581142,
+            "y" : 0.0038727365899831057,
+            "z" : 0.6862947344779968,
+            "w" : 0.7272816896438599
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/d98ee3374dd24300a0332afa242d9611_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/d98ee3374dd24300a0332afa242d9611/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/d98ee3374dd24300a0332afa242d9611_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/d98ee3374dd24300a0332afa242d9611/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/d98ee3374dd24300a0332afa242d9611_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/d98ee3374dd24300a0332afa242d9611/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "rtybab7wzgmkd6g9hznd33adc",
+        "index" : 4,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "cdz3fkt38kae7tapstpt0eaeb",
+          "meshId" : 3
+        },
+        "neighbors" : [ "a2i4q4qgrhg5utf5cwi9m3pac", "zmitfkbhwhpuhs7ga6mzxcbuc", "3k03auwx742s56uuy10cxdg6d", "nqxhnwedr92p25thb55q4dykd", "sx48w3gb794m37xfhph6hws5b", "uzwwe66wqmuhq8be8nk33s7mc", "xyx3nrean28tk08pr44k1nf8b", "64rdrbretezt63pn0s4te185d", "dkf88re8x52inxq3aw2wrpt7a", "5w2g1gpzpkrusn48k3f42rkpc", "n0tyz69y5ff6zci048nq8sgeb" ],
+        "tags" : [ "showcase", "vr" ],
+        "position" : {
+          "x" : 0.8529133796691895,
+          "y" : 1.143734097480774,
+          "z" : -0.009076149202883244
+        },
+        "pano" : {
+          "id" : "rtybab7wzgmkd6g9hznd33adc",
+          "sweepUuid" : "4a8d5974200d420ea183391aea7f9b83",
+          "label" : "4",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 0.8529133796691895,
+            "y" : 1.143734097480774,
+            "z" : 1.5291754007339478
+          },
+          "rotation" : {
+            "x" : 0.0036919473204761744,
+            "y" : -0.0031635973136872053,
+            "z" : -0.7019851803779602,
+            "w" : 0.7121750712394714
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/4a8d5974200d420ea183391aea7f9b83_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/4a8d5974200d420ea183391aea7f9b83/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/4a8d5974200d420ea183391aea7f9b83_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/4a8d5974200d420ea183391aea7f9b83/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/4a8d5974200d420ea183391aea7f9b83_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/4a8d5974200d420ea183391aea7f9b83/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "t2p23smyyts79xmz8xtes8pbc",
+        "index" : 31,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "a5f9age4zzxewres6iqux2emc",
+          "meshId" : 9
+        },
+        "neighbors" : [ "efrs393ba5i0strk5st9sq79c", "u1tgpfppxtphd0b5s9th3swta", "11n956a4mhaczxrq24r9ei8kb", "4mzumpt1022khq3e10prnxnmd", "a6xyteeh42tewmw8mwcgfhuhc", "p64pmpk54m7rn2u9dzug5eh6d" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : 9.102386474609375,
+          "y" : 2.109496593475342,
+          "z" : -0.005464095156639814
+        },
+        "pano" : {
+          "id" : "t2p23smyyts79xmz8xtes8pbc",
+          "sweepUuid" : "ebe14a29f9c34310a0b3cf2427eaaa7f",
+          "label" : "31",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 9.102386474609375,
+            "y" : 2.109496593475342,
+            "z" : 1.5485825538635254
+          },
+          "rotation" : {
+            "x" : 0.002362098777666688,
+            "y" : 0.003991632256656885,
+            "z" : 0.9999781847000122,
+            "w" : 0.004711045417934656
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/ebe14a29f9c34310a0b3cf2427eaaa7f_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/ebe14a29f9c34310a0b3cf2427eaaa7f/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/ebe14a29f9c34310a0b3cf2427eaaa7f_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/ebe14a29f9c34310a0b3cf2427eaaa7f/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/ebe14a29f9c34310a0b3cf2427eaaa7f_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/ebe14a29f9c34310a0b3cf2427eaaa7f/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "ya4ddnxpphxd1d5d83zwt1zua",
+        "index" : 36,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "613htqkzf66zz7hf7n8kzszed",
+          "meshId" : 2
+        },
+        "neighbors" : [ "3y1hm7sswgzw7dx1rhhedh64b", "3k03auwx742s56uuy10cxdg6d", "rux401gx724wxnckcapqfzkya", "sxseq6aw03g2yqzh1h2q0gpzc", "5raktdiwnwkxxqbt236r9mrda", "efrs393ba5i0strk5st9sq79c", "5rsn5rg0y6wnerdczas8ens6a", "nyk31zfs4qitminrwpw76s5pa" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : 9.582925796508789,
+          "y" : -0.1208849847316742,
+          "z" : 0.0010792916873469949
+        },
+        "pano" : {
+          "id" : "ya4ddnxpphxd1d5d83zwt1zua",
+          "sweepUuid" : "1ccec64d631e481488d6f09573e1ec77",
+          "label" : "36",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 9.582925796508789,
+            "y" : -0.1208849847316742,
+            "z" : 1.5290087461471558
+          },
+          "rotation" : {
+            "x" : 2.468647144269198E-4,
+            "y" : 0.0012854586821049452,
+            "z" : 0.9998416900634766,
+            "w" : 0.01774931140244007
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/1ccec64d631e481488d6f09573e1ec77_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/1ccec64d631e481488d6f09573e1ec77/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/1ccec64d631e481488d6f09573e1ec77_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/1ccec64d631e481488d6f09573e1ec77/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/1ccec64d631e481488d6f09573e1ec77_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/1ccec64d631e481488d6f09573e1ec77/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "akbzsiad9z6b2q5mbu6ty9msd",
+        "index" : 18,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "tt6gm2a0463x9wmnx7rn6gugc",
+          "meshId" : 5
+        },
+        "neighbors" : [ "5raktdiwnwkxxqbt236r9mrda", "0ei717kypx6s1k7rymxnfkd3b", "6wc4s0728yked80cytk6u0k6c", "2ri0cric05u0kty9fbsntsz4c" ],
+        "tags" : [ "showcase", "vr" ],
+        "position" : {
+          "x" : 4.302656650543213,
+          "y" : 1.1384260654449463,
+          "z" : -0.0072479769587516785
+        },
+        "pano" : {
+          "id" : "akbzsiad9z6b2q5mbu6ty9msd",
+          "sweepUuid" : "0f2bf1810fa84520b7abf48722156db8",
+          "label" : "18",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 4.302656650543213,
+            "y" : 1.1384260654449463,
+            "z" : 1.5300745964050293
+          },
+          "rotation" : {
+            "x" : 0.002200531540438533,
+            "y" : 9.51803449424915E-5,
+            "z" : -0.7197210788726807,
+            "w" : 0.6942599415779114
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/0f2bf1810fa84520b7abf48722156db8_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/0f2bf1810fa84520b7abf48722156db8/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/0f2bf1810fa84520b7abf48722156db8_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/0f2bf1810fa84520b7abf48722156db8/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/0f2bf1810fa84520b7abf48722156db8_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/0f2bf1810fa84520b7abf48722156db8/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "dkf88re8x52inxq3aw2wrpt7a",
+        "index" : 10,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "3m54yff1z7crxaywd8if9rb0d",
+          "meshId" : 7
+        },
+        "neighbors" : [ "rtybab7wzgmkd6g9hznd33adc", "nqxhnwedr92p25thb55q4dykd", "sx48w3gb794m37xfhph6hws5b", "uzwwe66wqmuhq8be8nk33s7mc", "xyx3nrean28tk08pr44k1nf8b", "5w2g1gpzpkrusn48k3f42rkpc", "pmqck7a3twiafkfg4201h1khd" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : -2.452021837234497,
+          "y" : 1.2875163555145264,
+          "z" : -0.012051423080265522
+        },
+        "pano" : {
+          "id" : "dkf88re8x52inxq3aw2wrpt7a",
+          "sweepUuid" : "46373f11def145238ec18e96240cb66b",
+          "label" : "10",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : -2.452021837234497,
+            "y" : 1.2875163555145264,
+            "z" : 1.5662956237792969
+          },
+          "rotation" : {
+            "x" : 8.871350437402725E-4,
+            "y" : 2.700801123864949E-4,
+            "z" : 0.0074503663927316666,
+            "w" : 0.9999718070030212
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/46373f11def145238ec18e96240cb66b_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/46373f11def145238ec18e96240cb66b/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/46373f11def145238ec18e96240cb66b_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/46373f11def145238ec18e96240cb66b/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/46373f11def145238ec18e96240cb66b_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/46373f11def145238ec18e96240cb66b/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "rux401gx724wxnckcapqfzkya",
+        "index" : 14,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "xy2x8mpaaqknp7q2c3nnbw1ma",
+          "meshId" : 4
+        },
+        "neighbors" : [ "3y1hm7sswgzw7dx1rhhedh64b", "a2i4q4qgrhg5utf5cwi9m3pac", "zmitfkbhwhpuhs7ga6mzxcbuc", "3k03auwx742s56uuy10cxdg6d", "64rdrbretezt63pn0s4te185d", "n0tyz69y5ff6zci048nq8sgeb", "sxseq6aw03g2yqzh1h2q0gpzc", "srbbm7q73dn5p9idwy1f8wb0b", "5raktdiwnwkxxqbt236r9mrda", "efrs393ba5i0strk5st9sq79c", "5rsn5rg0y6wnerdczas8ens6a", "nyk31zfs4qitminrwpw76s5pa", "ya4ddnxpphxd1d5d83zwt1zua" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : 1.8312550783157349,
+          "y" : -0.09705473482608795,
+          "z" : -0.004542333073914051
+        },
+        "pano" : {
+          "id" : "rux401gx724wxnckcapqfzkya",
+          "sweepUuid" : "96b1d99af6d44e2e8a26a56b00248973",
+          "label" : "14",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 1.8312550783157349,
+            "y" : -0.09705473482608795,
+            "z" : 1.5170341730117798
+          },
+          "rotation" : {
+            "x" : 0.004728690255433321,
+            "y" : -0.004714834503829479,
+            "z" : -0.7167025804519653,
+            "w" : 0.6973469853401184
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/96b1d99af6d44e2e8a26a56b00248973_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/96b1d99af6d44e2e8a26a56b00248973/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/96b1d99af6d44e2e8a26a56b00248973_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/96b1d99af6d44e2e8a26a56b00248973/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/96b1d99af6d44e2e8a26a56b00248973_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/96b1d99af6d44e2e8a26a56b00248973/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "3k03auwx742s56uuy10cxdg6d",
+        "index" : 3,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "2qdmc5i9byxi79ry1pxdkqzea",
+          "meshId" : 8
+        },
+        "neighbors" : [ "3y1hm7sswgzw7dx1rhhedh64b", "a2i4q4qgrhg5utf5cwi9m3pac", "zmitfkbhwhpuhs7ga6mzxcbuc", "rtybab7wzgmkd6g9hznd33adc", "nqxhnwedr92p25thb55q4dykd", "sx48w3gb794m37xfhph6hws5b", "n0tyz69y5ff6zci048nq8sgeb", "rux401gx724wxnckcapqfzkya", "sxseq6aw03g2yqzh1h2q0gpzc", "srbbm7q73dn5p9idwy1f8wb0b", "5raktdiwnwkxxqbt236r9mrda", "efrs393ba5i0strk5st9sq79c", "5rsn5rg0y6wnerdczas8ens6a", "nyk31zfs4qitminrwpw76s5pa", "ya4ddnxpphxd1d5d83zwt1zua" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : 0.8864364624023438,
+          "y" : -0.04692806676030159,
+          "z" : -0.005716937128454447
+        },
+        "pano" : {
+          "id" : "3k03auwx742s56uuy10cxdg6d",
+          "sweepUuid" : "7e35d9ca20cd4939be187315af48c79b",
+          "label" : "3",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 0.8864364624023438,
+            "y" : -0.04692806676030159,
+            "z" : 1.5245054960250854
+          },
+          "rotation" : {
+            "x" : 0.0052248588763177395,
+            "y" : -0.0038302724715322256,
+            "z" : -0.7001363635063171,
+            "w" : 0.7139797806739807
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/7e35d9ca20cd4939be187315af48c79b_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/7e35d9ca20cd4939be187315af48c79b/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/7e35d9ca20cd4939be187315af48c79b_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/7e35d9ca20cd4939be187315af48c79b/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/7e35d9ca20cd4939be187315af48c79b_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/7e35d9ca20cd4939be187315af48c79b/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "6u7mmpqgf4dhuh92pem12c3ba",
+        "index" : 25,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "19ab05tns5h6y4qm42esqqpea",
+          "meshId" : 10
+        },
+        "neighbors" : [ "efrs393ba5i0strk5st9sq79c", "9z9cizgtu8fd082ddmi7wbmxd", "e7st8405akhfmaxkqdipzztwb" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : 5.906641960144043,
+          "y" : 2.722947359085083,
+          "z" : -0.011900545097887516
+        },
+        "pano" : {
+          "id" : "6u7mmpqgf4dhuh92pem12c3ba",
+          "sweepUuid" : "38f453358a57463c80e458ba88cc7cf1",
+          "label" : "25",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 5.906641960144043,
+            "y" : 2.722947359085083,
+            "z" : 1.5524098873138428
+          },
+          "rotation" : {
+            "x" : 3.68784909369424E-4,
+            "y" : -7.994324550963938E-4,
+            "z" : -0.7083456516265869,
+            "w" : 0.7058652639389038
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/38f453358a57463c80e458ba88cc7cf1_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/38f453358a57463c80e458ba88cc7cf1/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/38f453358a57463c80e458ba88cc7cf1_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/38f453358a57463c80e458ba88cc7cf1/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/38f453358a57463c80e458ba88cc7cf1_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/38f453358a57463c80e458ba88cc7cf1/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "pmqck7a3twiafkfg4201h1khd",
+        "index" : 12,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "3m54yff1z7crxaywd8if9rb0d",
+          "meshId" : 7
+        },
+        "neighbors" : [ "dkf88re8x52inxq3aw2wrpt7a", "5w2g1gpzpkrusn48k3f42rkpc" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : -3.1286067962646484,
+          "y" : 2.4104549884796143,
+          "z" : -0.015396292321383953
+        },
+        "pano" : {
+          "id" : "pmqck7a3twiafkfg4201h1khd",
+          "sweepUuid" : "02250c83a913454cb3a6e7bdb1a31525",
+          "label" : "12",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : -3.1286067962646484,
+            "y" : 2.4104549884796143,
+            "z" : 1.578700304031372
+          },
+          "rotation" : {
+            "x" : -8.508955361321568E-4,
+            "y" : -4.1993314516730607E-4,
+            "z" : -0.7188988924026489,
+            "w" : 0.695114016532898
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/02250c83a913454cb3a6e7bdb1a31525_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/02250c83a913454cb3a6e7bdb1a31525/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/02250c83a913454cb3a6e7bdb1a31525_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/02250c83a913454cb3a6e7bdb1a31525/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/02250c83a913454cb3a6e7bdb1a31525_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/02250c83a913454cb3a6e7bdb1a31525/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "zmitfkbhwhpuhs7ga6mzxcbuc",
+        "index" : 2,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "2qdmc5i9byxi79ry1pxdkqzea",
+          "meshId" : 8
+        },
+        "neighbors" : [ "3y1hm7sswgzw7dx1rhhedh64b", "a2i4q4qgrhg5utf5cwi9m3pac", "3k03auwx742s56uuy10cxdg6d", "rtybab7wzgmkd6g9hznd33adc", "nqxhnwedr92p25thb55q4dykd", "n0tyz69y5ff6zci048nq8sgeb", "rux401gx724wxnckcapqfzkya", "sxseq6aw03g2yqzh1h2q0gpzc", "srbbm7q73dn5p9idwy1f8wb0b", "5raktdiwnwkxxqbt236r9mrda", "efrs393ba5i0strk5st9sq79c" ],
+        "tags" : [ "showcase", "vr" ],
+        "position" : {
+          "x" : 0.8954094052314758,
+          "y" : -1.2903534173965454,
+          "z" : -0.0019850239623337984
+        },
+        "pano" : {
+          "id" : "zmitfkbhwhpuhs7ga6mzxcbuc",
+          "sweepUuid" : "8b0f238525824155a88453aab80375e7",
+          "label" : "2",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 0.8954094052314758,
+            "y" : -1.2903534173965454,
+            "z" : 1.5263302326202393
+          },
+          "rotation" : {
+            "x" : 0.001084271352738142,
+            "y" : 0.004468558821827173,
+            "z" : 0.9998597502708435,
+            "w" : 0.016106730327010155
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/8b0f238525824155a88453aab80375e7_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/8b0f238525824155a88453aab80375e7/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/8b0f238525824155a88453aab80375e7_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/8b0f238525824155a88453aab80375e7/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/8b0f238525824155a88453aab80375e7_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/8b0f238525824155a88453aab80375e7/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "4mzumpt1022khq3e10prnxnmd",
+        "index" : 29,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "h26t7ky77ew74yb0pg8qqf5rd",
+          "meshId" : 6
+        },
+        "neighbors" : [ "efrs393ba5i0strk5st9sq79c", "u1tgpfppxtphd0b5s9th3swta", "11n956a4mhaczxrq24r9ei8kb", "a6xyteeh42tewmw8mwcgfhuhc", "t2p23smyyts79xmz8xtes8pbc" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : 8.619574546813965,
+          "y" : 2.712790012359619,
+          "z" : -0.007032041437923908
+        },
+        "pano" : {
+          "id" : "4mzumpt1022khq3e10prnxnmd",
+          "sweepUuid" : "4e316bc18a8d455ab52e6b732d7265a7",
+          "label" : "29",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 8.619574546813965,
+            "y" : 2.712790012359619,
+            "z" : 1.5407532453536987
+          },
+          "rotation" : {
+            "x" : 0.0027538654394447803,
+            "y" : -0.001510587870143354,
+            "z" : -0.7256173491477966,
+            "w" : 0.6880912780761719
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/4e316bc18a8d455ab52e6b732d7265a7_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/4e316bc18a8d455ab52e6b732d7265a7/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/4e316bc18a8d455ab52e6b732d7265a7_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/4e316bc18a8d455ab52e6b732d7265a7/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/4e316bc18a8d455ab52e6b732d7265a7_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/4e316bc18a8d455ab52e6b732d7265a7/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "5w2g1gpzpkrusn48k3f42rkpc",
+        "index" : 11,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "3m54yff1z7crxaywd8if9rb0d",
+          "meshId" : 7
+        },
+        "neighbors" : [ "rtybab7wzgmkd6g9hznd33adc", "nqxhnwedr92p25thb55q4dykd", "uzwwe66wqmuhq8be8nk33s7mc", "xyx3nrean28tk08pr44k1nf8b", "dkf88re8x52inxq3aw2wrpt7a", "pmqck7a3twiafkfg4201h1khd" ],
+        "tags" : [ "showcase", "vr" ],
+        "position" : {
+          "x" : -3.2356514930725098,
+          "y" : 1.1627057790756226,
+          "z" : -0.01273723691701889
+        },
+        "pano" : {
+          "id" : "5w2g1gpzpkrusn48k3f42rkpc",
+          "sweepUuid" : "8b92cab0d736425ba625d8d1729f696f",
+          "label" : "11",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : -3.2356514930725098,
+            "y" : 1.1627057790756226,
+            "z" : 1.5683296918869019
+          },
+          "rotation" : {
+            "x" : 0.0011927577434107661,
+            "y" : -3.714755875989795E-4,
+            "z" : 0.015357129275798798,
+            "w" : 0.9998813271522522
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/8b92cab0d736425ba625d8d1729f696f_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/8b92cab0d736425ba625d8d1729f696f/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/8b92cab0d736425ba625d8d1729f696f_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/8b92cab0d736425ba625d8d1729f696f/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/8b92cab0d736425ba625d8d1729f696f_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/8b92cab0d736425ba625d8d1729f696f/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "6wc4s0728yked80cytk6u0k6c",
+        "index" : 20,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "tt6gm2a0463x9wmnx7rn6gugc",
+          "meshId" : 5
+        },
+        "neighbors" : [ "5raktdiwnwkxxqbt236r9mrda", "akbzsiad9z6b2q5mbu6ty9msd", "0ei717kypx6s1k7rymxnfkd3b", "2ri0cric05u0kty9fbsntsz4c" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : 4.301966667175293,
+          "y" : 2.697892427444458,
+          "z" : -0.0129046980291605
+        },
+        "pano" : {
+          "id" : "6wc4s0728yked80cytk6u0k6c",
+          "sweepUuid" : "2269ec76cfd04a5cae26d1e261415bc3",
+          "label" : "20",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 4.301966667175293,
+            "y" : 2.697892427444458,
+            "z" : 1.5319377183914185
+          },
+          "rotation" : {
+            "x" : -3.52637842297554E-4,
+            "y" : -0.0042078508995473385,
+            "z" : -0.7306709885597229,
+            "w" : 0.6827167868614197
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/2269ec76cfd04a5cae26d1e261415bc3_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/2269ec76cfd04a5cae26d1e261415bc3/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/2269ec76cfd04a5cae26d1e261415bc3_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/2269ec76cfd04a5cae26d1e261415bc3/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/2269ec76cfd04a5cae26d1e261415bc3_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/2269ec76cfd04a5cae26d1e261415bc3/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "64rdrbretezt63pn0s4te185d",
+        "index" : 9,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "cdz3fkt38kae7tapstpt0eaeb",
+          "meshId" : 3
+        },
+        "neighbors" : [ "rtybab7wzgmkd6g9hznd33adc", "nqxhnwedr92p25thb55q4dykd", "sx48w3gb794m37xfhph6hws5b", "uzwwe66wqmuhq8be8nk33s7mc", "xyx3nrean28tk08pr44k1nf8b", "rux401gx724wxnckcapqfzkya", "srbbm7q73dn5p9idwy1f8wb0b" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : -1.499403476715088,
+          "y" : 2.3250362873077393,
+          "z" : -0.013957305811345577
+        },
+        "pano" : {
+          "id" : "64rdrbretezt63pn0s4te185d",
+          "sweepUuid" : "854902382e1b4b5cbdfae4869f65b33c",
+          "label" : "9",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : -1.499403476715088,
+            "y" : 2.3250362873077393,
+            "z" : 1.5415955781936646
+          },
+          "rotation" : {
+            "x" : 2.3161382705438882E-4,
+            "y" : -0.004454575479030609,
+            "z" : -0.7216827869415283,
+            "w" : 0.6922096014022827
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/854902382e1b4b5cbdfae4869f65b33c_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/854902382e1b4b5cbdfae4869f65b33c/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/854902382e1b4b5cbdfae4869f65b33c_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/854902382e1b4b5cbdfae4869f65b33c/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/854902382e1b4b5cbdfae4869f65b33c_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/854902382e1b4b5cbdfae4869f65b33c/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "7w6nti5h2rx9zg07rnpsz3ksa",
+        "index" : 34,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "a5f9age4zzxewres6iqux2emc",
+          "meshId" : 9
+        },
+        "neighbors" : [ "mykci9t40h2bmrfrps9t46tha" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : 10.317971229553223,
+          "y" : 2.8339452743530273,
+          "z" : 0.40406379103660583
+        },
+        "pano" : {
+          "id" : "7w6nti5h2rx9zg07rnpsz3ksa",
+          "sweepUuid" : "fcdd83ed105f425d87a7357b16eed8d5",
+          "label" : "34",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 10.317971229553223,
+            "y" : 2.8339452743530273,
+            "z" : 1.508803367614746
+          },
+          "rotation" : {
+            "x" : 4.097336786799133E-4,
+            "y" : -6.056959391571581E-4,
+            "z" : -0.7194643616676331,
+            "w" : 0.694529116153717
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/fcdd83ed105f425d87a7357b16eed8d5_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/fcdd83ed105f425d87a7357b16eed8d5/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/fcdd83ed105f425d87a7357b16eed8d5_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/fcdd83ed105f425d87a7357b16eed8d5/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/fcdd83ed105f425d87a7357b16eed8d5_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/fcdd83ed105f425d87a7357b16eed8d5/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "sx48w3gb794m37xfhph6hws5b",
+        "index" : 6,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "cdz3fkt38kae7tapstpt0eaeb",
+          "meshId" : 3
+        },
+        "neighbors" : [ "3k03auwx742s56uuy10cxdg6d", "rtybab7wzgmkd6g9hznd33adc", "nqxhnwedr92p25thb55q4dykd", "uzwwe66wqmuhq8be8nk33s7mc", "xyx3nrean28tk08pr44k1nf8b", "64rdrbretezt63pn0s4te185d", "dkf88re8x52inxq3aw2wrpt7a", "n0tyz69y5ff6zci048nq8sgeb" ],
+        "tags" : [ "showcase", "vr" ],
+        "position" : {
+          "x" : -0.29224056005477905,
+          "y" : 2.4577512741088867,
+          "z" : -0.013679777272045612
+        },
+        "pano" : {
+          "id" : "sx48w3gb794m37xfhph6hws5b",
+          "sweepUuid" : "56bfd09b32f64a6f9dbe47e1d872cfb9",
+          "label" : "6",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : -0.29224056005477905,
+            "y" : 2.4577512741088867,
+            "z" : 1.5304908752441406
+          },
+          "rotation" : {
+            "x" : 0.004774422850459814,
+            "y" : 0.0016756753902882338,
+            "z" : -8.813926833681762E-4,
+            "w" : 0.9999868273735046
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/56bfd09b32f64a6f9dbe47e1d872cfb9_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/56bfd09b32f64a6f9dbe47e1d872cfb9/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/56bfd09b32f64a6f9dbe47e1d872cfb9_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/56bfd09b32f64a6f9dbe47e1d872cfb9/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/56bfd09b32f64a6f9dbe47e1d872cfb9_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/56bfd09b32f64a6f9dbe47e1d872cfb9/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "sxseq6aw03g2yqzh1h2q0gpzc",
+        "index" : 15,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "xy2x8mpaaqknp7q2c3nnbw1ma",
+          "meshId" : 4
+        },
+        "neighbors" : [ "3y1hm7sswgzw7dx1rhhedh64b", "a2i4q4qgrhg5utf5cwi9m3pac", "zmitfkbhwhpuhs7ga6mzxcbuc", "3k03auwx742s56uuy10cxdg6d", "n0tyz69y5ff6zci048nq8sgeb", "rux401gx724wxnckcapqfzkya", "srbbm7q73dn5p9idwy1f8wb0b", "5raktdiwnwkxxqbt236r9mrda", "efrs393ba5i0strk5st9sq79c", "5rsn5rg0y6wnerdczas8ens6a", "nyk31zfs4qitminrwpw76s5pa", "ya4ddnxpphxd1d5d83zwt1zua" ],
+        "tags" : [ "showcase", "vr" ],
+        "position" : {
+          "x" : 3.082716226577759,
+          "y" : -0.165832057595253,
+          "z" : -0.0032327286899089813
+        },
+        "pano" : {
+          "id" : "sxseq6aw03g2yqzh1h2q0gpzc",
+          "sweepUuid" : "c1b369038d234e6faab0d66e0f73d5b4",
+          "label" : "15",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 3.082716226577759,
+            "y" : -0.165832057595253,
+            "z" : 1.5321862697601318
+          },
+          "rotation" : {
+            "x" : 0.0012702913954854012,
+            "y" : 0.0021432838402688503,
+            "z" : 0.9999968409538269,
+            "w" : -3.130819241050631E-4
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/c1b369038d234e6faab0d66e0f73d5b4_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/c1b369038d234e6faab0d66e0f73d5b4/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/c1b369038d234e6faab0d66e0f73d5b4_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/c1b369038d234e6faab0d66e0f73d5b4/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/c1b369038d234e6faab0d66e0f73d5b4_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/c1b369038d234e6faab0d66e0f73d5b4/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "a6xyteeh42tewmw8mwcgfhuhc",
+        "index" : 30,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "h26t7ky77ew74yb0pg8qqf5rd",
+          "meshId" : 6
+        },
+        "neighbors" : [ "u1tgpfppxtphd0b5s9th3swta", "11n956a4mhaczxrq24r9ei8kb", "4mzumpt1022khq3e10prnxnmd", "t2p23smyyts79xmz8xtes8pbc" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : 7.155226707458496,
+          "y" : 2.6641671657562256,
+          "z" : 0.6894204616546631
+        },
+        "pano" : {
+          "id" : "a6xyteeh42tewmw8mwcgfhuhc",
+          "sweepUuid" : "2431a39090a44f80a3c4e530a4af4952",
+          "label" : "30",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 7.155226707458496,
+            "y" : 2.6641671657562256,
+            "z" : 1.5311120748519897
+          },
+          "rotation" : {
+            "x" : 0.006935147102922201,
+            "y" : 0.0015795188955962658,
+            "z" : 0.01352289505302906,
+            "w" : 0.999883234500885
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/2431a39090a44f80a3c4e530a4af4952_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/2431a39090a44f80a3c4e530a4af4952/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/2431a39090a44f80a3c4e530a4af4952_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/2431a39090a44f80a3c4e530a4af4952/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/2431a39090a44f80a3c4e530a4af4952_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/2431a39090a44f80a3c4e530a4af4952/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "mykci9t40h2bmrfrps9t46tha",
+        "index" : 33,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "a5f9age4zzxewres6iqux2emc",
+          "meshId" : 9
+        },
+        "neighbors" : [ "p64pmpk54m7rn2u9dzug5eh6d", "7w6nti5h2rx9zg07rnpsz3ksa" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : 10.50862979888916,
+          "y" : 0.9722996950149536,
+          "z" : -0.0012460792204365134
+        },
+        "pano" : {
+          "id" : "mykci9t40h2bmrfrps9t46tha",
+          "sweepUuid" : "0e0f6d43e812468a83c39a87dec715ca",
+          "label" : "33",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 10.50862979888916,
+            "y" : 0.9722996950149536,
+            "z" : 1.521317720413208
+          },
+          "rotation" : {
+            "x" : 7.947469712235034E-4,
+            "y" : 7.63515941798687E-4,
+            "z" : 0.7105387449264526,
+            "w" : 0.7036572098731995
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/0e0f6d43e812468a83c39a87dec715ca_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/0e0f6d43e812468a83c39a87dec715ca/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/0e0f6d43e812468a83c39a87dec715ca_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/0e0f6d43e812468a83c39a87dec715ca/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/0e0f6d43e812468a83c39a87dec715ca_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/0e0f6d43e812468a83c39a87dec715ca/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "nyk31zfs4qitminrwpw76s5pa",
+        "index" : 35,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "613htqkzf66zz7hf7n8kzszed",
+          "meshId" : 2
+        },
+        "neighbors" : [ "3y1hm7sswgzw7dx1rhhedh64b", "3k03auwx742s56uuy10cxdg6d", "rux401gx724wxnckcapqfzkya", "sxseq6aw03g2yqzh1h2q0gpzc", "5raktdiwnwkxxqbt236r9mrda", "efrs393ba5i0strk5st9sq79c", "5rsn5rg0y6wnerdczas8ens6a", "ya4ddnxpphxd1d5d83zwt1zua" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : 8.48357105255127,
+          "y" : -0.2522793710231781,
+          "z" : 3.7989174597896636E-4
+        },
+        "pano" : {
+          "id" : "nyk31zfs4qitminrwpw76s5pa",
+          "sweepUuid" : "821ba796b7ca468b866dfcec99272d0a",
+          "label" : "35",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 8.48357105255127,
+            "y" : -0.2522793710231781,
+            "z" : 1.5325225591659546
+          },
+          "rotation" : {
+            "x" : -6.036219419911504E-4,
+            "y" : 0.0015741819515824318,
+            "z" : 0.9999328255653381,
+            "w" : 0.011470457538962364
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/821ba796b7ca468b866dfcec99272d0a_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/821ba796b7ca468b866dfcec99272d0a/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/821ba796b7ca468b866dfcec99272d0a_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/821ba796b7ca468b866dfcec99272d0a/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/821ba796b7ca468b866dfcec99272d0a_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/821ba796b7ca468b866dfcec99272d0a/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "p64pmpk54m7rn2u9dzug5eh6d",
+        "index" : 32,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "a5f9age4zzxewres6iqux2emc",
+          "meshId" : 9
+        },
+        "neighbors" : [ "mykci9t40h2bmrfrps9t46tha", "t2p23smyyts79xmz8xtes8pbc" ],
+        "tags" : [ "showcase", "vr" ],
+        "position" : {
+          "x" : 10.296905517578125,
+          "y" : 2.028867483139038,
+          "z" : -0.004594199825078249
+        },
+        "pano" : {
+          "id" : "p64pmpk54m7rn2u9dzug5eh6d",
+          "sweepUuid" : "7755ada58a664b8cbe1c9b346a3fc70b",
+          "label" : "32",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 10.296905517578125,
+            "y" : 2.028867483139038,
+            "z" : 1.54329514503479
+          },
+          "rotation" : {
+            "x" : 1.3043664512224495E-4,
+            "y" : 0.0011778714833781123,
+            "z" : 0.999970018863678,
+            "w" : -0.007657807320356369
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/7755ada58a664b8cbe1c9b346a3fc70b_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/7755ada58a664b8cbe1c9b346a3fc70b/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/7755ada58a664b8cbe1c9b346a3fc70b_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/7755ada58a664b8cbe1c9b346a3fc70b/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/7755ada58a664b8cbe1c9b346a3fc70b_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/7755ada58a664b8cbe1c9b346a3fc70b/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "xyx3nrean28tk08pr44k1nf8b",
+        "index" : 8,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "cdz3fkt38kae7tapstpt0eaeb",
+          "meshId" : 3
+        },
+        "neighbors" : [ "rtybab7wzgmkd6g9hznd33adc", "nqxhnwedr92p25thb55q4dykd", "sx48w3gb794m37xfhph6hws5b", "uzwwe66wqmuhq8be8nk33s7mc", "64rdrbretezt63pn0s4te185d", "dkf88re8x52inxq3aw2wrpt7a", "5w2g1gpzpkrusn48k3f42rkpc" ],
+        "tags" : [ "showcase", "vr" ],
+        "position" : {
+          "x" : -1.5614782571792603,
+          "y" : 1.2297812700271606,
+          "z" : -0.01122836209833622
+        },
+        "pano" : {
+          "id" : "xyx3nrean28tk08pr44k1nf8b",
+          "sweepUuid" : "87b0b011cbcc4e939f15774eb4e67ac9",
+          "label" : "8",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : -1.5614782571792603,
+            "y" : 1.2297812700271606,
+            "z" : 1.5463818311691284
+          },
+          "rotation" : {
+            "x" : 0.0031721252016723156,
+            "y" : -6.656114128418267E-4,
+            "z" : 0.006874794606119394,
+            "w" : 0.9999710917472839
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/87b0b011cbcc4e939f15774eb4e67ac9_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/87b0b011cbcc4e939f15774eb4e67ac9/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/87b0b011cbcc4e939f15774eb4e67ac9_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/87b0b011cbcc4e939f15774eb4e67ac9/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/87b0b011cbcc4e939f15774eb4e67ac9_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/87b0b011cbcc4e939f15774eb4e67ac9/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "0ei717kypx6s1k7rymxnfkd3b",
+        "index" : 19,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "tt6gm2a0463x9wmnx7rn6gugc",
+          "meshId" : 5
+        },
+        "neighbors" : [ "akbzsiad9z6b2q5mbu6ty9msd", "6wc4s0728yked80cytk6u0k6c", "2ri0cric05u0kty9fbsntsz4c" ],
+        "tags" : [ "showcase", "vr" ],
+        "position" : {
+          "x" : 2.7847657203674316,
+          "y" : 1.1895686388015747,
+          "z" : -0.008361952379345894
+        },
+        "pano" : {
+          "id" : "0ei717kypx6s1k7rymxnfkd3b",
+          "sweepUuid" : "7f26ca27b7ea40969c8d255cd5477537",
+          "label" : "19",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 2.7847657203674316,
+            "y" : 1.1895686388015747,
+            "z" : 1.5563523769378662
+          },
+          "rotation" : {
+            "x" : 0.0014887393917888403,
+            "y" : 0.0030503123998641968,
+            "z" : 2.943905128631741E-4,
+            "w" : 0.999994158744812
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/7f26ca27b7ea40969c8d255cd5477537_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/7f26ca27b7ea40969c8d255cd5477537/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/7f26ca27b7ea40969c8d255cd5477537_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/7f26ca27b7ea40969c8d255cd5477537/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/7f26ca27b7ea40969c8d255cd5477537_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/7f26ca27b7ea40969c8d255cd5477537/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "3y1hm7sswgzw7dx1rhhedh64b",
+        "index" : 0,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "2qdmc5i9byxi79ry1pxdkqzea",
+          "meshId" : 8
+        },
+        "neighbors" : [ "a2i4q4qgrhg5utf5cwi9m3pac", "zmitfkbhwhpuhs7ga6mzxcbuc", "3k03auwx742s56uuy10cxdg6d", "n0tyz69y5ff6zci048nq8sgeb", "rux401gx724wxnckcapqfzkya", "sxseq6aw03g2yqzh1h2q0gpzc", "srbbm7q73dn5p9idwy1f8wb0b", "5raktdiwnwkxxqbt236r9mrda", "efrs393ba5i0strk5st9sq79c", "5rsn5rg0y6wnerdczas8ens6a", "nyk31zfs4qitminrwpw76s5pa", "ya4ddnxpphxd1d5d83zwt1zua" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : -0.004035062622278929,
+          "y" : -0.00763689074665308,
+          "z" : -0.006723231170326471
+        },
+        "pano" : {
+          "id" : "3y1hm7sswgzw7dx1rhhedh64b",
+          "sweepUuid" : "954d27bfaa3d4e999d70e321ceebcc7d",
+          "label" : "0",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : -0.004035062622278929,
+            "y" : -0.00763689074665308,
+            "z" : 1.5392441749572754
+          },
+          "rotation" : {
+            "x" : 0.0014743086649104953,
+            "y" : 0.002265946241095662,
+            "z" : 0.9998417496681213,
+            "w" : 0.017586247995495796
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/954d27bfaa3d4e999d70e321ceebcc7d_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/954d27bfaa3d4e999d70e321ceebcc7d/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/954d27bfaa3d4e999d70e321ceebcc7d_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/954d27bfaa3d4e999d70e321ceebcc7d/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/954d27bfaa3d4e999d70e321ceebcc7d_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/954d27bfaa3d4e999d70e321ceebcc7d/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "efrs393ba5i0strk5st9sq79c",
+        "index" : 22,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "613htqkzf66zz7hf7n8kzszed",
+          "meshId" : 2
+        },
+        "neighbors" : [ "3y1hm7sswgzw7dx1rhhedh64b", "a2i4q4qgrhg5utf5cwi9m3pac", "zmitfkbhwhpuhs7ga6mzxcbuc", "3k03auwx742s56uuy10cxdg6d", "rux401gx724wxnckcapqfzkya", "sxseq6aw03g2yqzh1h2q0gpzc", "5raktdiwnwkxxqbt236r9mrda", "9z9cizgtu8fd082ddmi7wbmxd", "e7st8405akhfmaxkqdipzztwb", "6u7mmpqgf4dhuh92pem12c3ba", "5rsn5rg0y6wnerdczas8ens6a", "u1tgpfppxtphd0b5s9th3swta", "4mzumpt1022khq3e10prnxnmd", "t2p23smyyts79xmz8xtes8pbc", "nyk31zfs4qitminrwpw76s5pa", "ya4ddnxpphxd1d5d83zwt1zua" ],
+        "tags" : [ "showcase", "vr" ],
+        "position" : {
+          "x" : 5.9292521476745605,
+          "y" : -0.10501699149608612,
+          "z" : -3.3870842889882624E-4
+        },
+        "pano" : {
+          "id" : "efrs393ba5i0strk5st9sq79c",
+          "sweepUuid" : "b23600e7f97b48a4aff5affc1fb4ba0f",
+          "label" : "22",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 5.9292521476745605,
+            "y" : -0.10501699149608612,
+            "z" : 1.5269290208816528
+          },
+          "rotation" : {
+            "x" : 0.0015691203298047185,
+            "y" : 0.002910798415541649,
+            "z" : 0.9995540380477905,
+            "w" : 0.029678303748369217
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/b23600e7f97b48a4aff5affc1fb4ba0f_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/b23600e7f97b48a4aff5affc1fb4ba0f/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/b23600e7f97b48a4aff5affc1fb4ba0f_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/b23600e7f97b48a4aff5affc1fb4ba0f/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/b23600e7f97b48a4aff5affc1fb4ba0f_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/b23600e7f97b48a4aff5affc1fb4ba0f/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "e7st8405akhfmaxkqdipzztwb",
+        "index" : 24,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "19ab05tns5h6y4qm42esqqpea",
+          "meshId" : 10
+        },
+        "neighbors" : [ "efrs393ba5i0strk5st9sq79c", "9z9cizgtu8fd082ddmi7wbmxd", "6u7mmpqgf4dhuh92pem12c3ba" ],
+        "tags" : [ "showcase", "vr" ],
+        "position" : {
+          "x" : 5.919170379638672,
+          "y" : 1.7221226692199707,
+          "z" : -0.007803873624652624
+        },
+        "pano" : {
+          "id" : "e7st8405akhfmaxkqdipzztwb",
+          "sweepUuid" : "29d20ddb5e834fa49942b56206d4cc0a",
+          "label" : "24",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 5.919170379638672,
+            "y" : 1.7221226692199707,
+            "z" : 1.5568716526031494
+          },
+          "rotation" : {
+            "x" : 5.01035712659359E-4,
+            "y" : -1.5921432350296527E-4,
+            "z" : -0.7209356427192688,
+            "w" : 0.6930018663406372
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/29d20ddb5e834fa49942b56206d4cc0a_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/29d20ddb5e834fa49942b56206d4cc0a/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/29d20ddb5e834fa49942b56206d4cc0a_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/29d20ddb5e834fa49942b56206d4cc0a/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/29d20ddb5e834fa49942b56206d4cc0a_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/29d20ddb5e834fa49942b56206d4cc0a/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "nqxhnwedr92p25thb55q4dykd",
+        "index" : 5,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "cdz3fkt38kae7tapstpt0eaeb",
+          "meshId" : 3
+        },
+        "neighbors" : [ "zmitfkbhwhpuhs7ga6mzxcbuc", "3k03auwx742s56uuy10cxdg6d", "rtybab7wzgmkd6g9hznd33adc", "sx48w3gb794m37xfhph6hws5b", "uzwwe66wqmuhq8be8nk33s7mc", "xyx3nrean28tk08pr44k1nf8b", "64rdrbretezt63pn0s4te185d", "dkf88re8x52inxq3aw2wrpt7a", "5w2g1gpzpkrusn48k3f42rkpc" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : 0.9177535176277161,
+          "y" : 2.7087762355804443,
+          "z" : -0.013302884995937347
+        },
+        "pano" : {
+          "id" : "nqxhnwedr92p25thb55q4dykd",
+          "sweepUuid" : "663ee1924b3c4dabb4d07a6ef613c378",
+          "label" : "5",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 0.9177535176277161,
+            "y" : 2.7087762355804443,
+            "z" : 1.5218303203582764
+          },
+          "rotation" : {
+            "x" : 0.0010034014703705907,
+            "y" : -0.005669810809195042,
+            "z" : -0.7277867794036865,
+            "w" : 0.685779333114624
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/663ee1924b3c4dabb4d07a6ef613c378_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/663ee1924b3c4dabb4d07a6ef613c378/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/663ee1924b3c4dabb4d07a6ef613c378_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/663ee1924b3c4dabb4d07a6ef613c378/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/663ee1924b3c4dabb4d07a6ef613c378_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/663ee1924b3c4dabb4d07a6ef613c378/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "uzwwe66wqmuhq8be8nk33s7mc",
+        "index" : 7,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "cdz3fkt38kae7tapstpt0eaeb",
+          "meshId" : 3
+        },
+        "neighbors" : [ "rtybab7wzgmkd6g9hznd33adc", "nqxhnwedr92p25thb55q4dykd", "sx48w3gb794m37xfhph6hws5b", "xyx3nrean28tk08pr44k1nf8b", "64rdrbretezt63pn0s4te185d", "dkf88re8x52inxq3aw2wrpt7a", "5w2g1gpzpkrusn48k3f42rkpc" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : -0.547116756439209,
+          "y" : 1.299306035041809,
+          "z" : -0.010550573468208313
+        },
+        "pano" : {
+          "id" : "uzwwe66wqmuhq8be8nk33s7mc",
+          "sweepUuid" : "3c54d97384944ab1a575f9ca57e207cd",
+          "label" : "7",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : -0.547116756439209,
+            "y" : 1.299306035041809,
+            "z" : 1.5351037979125977
+          },
+          "rotation" : {
+            "x" : 0.007793694734573364,
+            "y" : 0.005727331154048443,
+            "z" : 0.6936902403831482,
+            "w" : 0.7202085256576538
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/3c54d97384944ab1a575f9ca57e207cd_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/3c54d97384944ab1a575f9ca57e207cd/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/3c54d97384944ab1a575f9ca57e207cd_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/3c54d97384944ab1a575f9ca57e207cd/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/3c54d97384944ab1a575f9ca57e207cd_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/3c54d97384944ab1a575f9ca57e207cd/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "9z9cizgtu8fd082ddmi7wbmxd",
+        "index" : 23,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "19ab05tns5h6y4qm42esqqpea",
+          "meshId" : 10
+        },
+        "neighbors" : [ "efrs393ba5i0strk5st9sq79c", "e7st8405akhfmaxkqdipzztwb", "6u7mmpqgf4dhuh92pem12c3ba" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : 5.936872482299805,
+          "y" : 0.9766125082969666,
+          "z" : -0.004770744126290083
+        },
+        "pano" : {
+          "id" : "9z9cizgtu8fd082ddmi7wbmxd",
+          "sweepUuid" : "197d181aa8174ebfb9a832ea1431e3d6",
+          "label" : "23",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 5.936872482299805,
+            "y" : 0.9766125082969666,
+            "z" : 1.553744912147522
+          },
+          "rotation" : {
+            "x" : 0.0012618819018825889,
+            "y" : 6.95127877406776E-4,
+            "z" : -0.7228891849517822,
+            "w" : 0.690962553024292
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/197d181aa8174ebfb9a832ea1431e3d6_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/197d181aa8174ebfb9a832ea1431e3d6/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/197d181aa8174ebfb9a832ea1431e3d6_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/197d181aa8174ebfb9a832ea1431e3d6/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/197d181aa8174ebfb9a832ea1431e3d6_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/197d181aa8174ebfb9a832ea1431e3d6/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "n0tyz69y5ff6zci048nq8sgeb",
+        "index" : 13,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "xy2x8mpaaqknp7q2c3nnbw1ma",
+          "meshId" : 4
+        },
+        "neighbors" : [ "3y1hm7sswgzw7dx1rhhedh64b", "a2i4q4qgrhg5utf5cwi9m3pac", "zmitfkbhwhpuhs7ga6mzxcbuc", "3k03auwx742s56uuy10cxdg6d", "rtybab7wzgmkd6g9hznd33adc", "sx48w3gb794m37xfhph6hws5b", "rux401gx724wxnckcapqfzkya", "sxseq6aw03g2yqzh1h2q0gpzc", "srbbm7q73dn5p9idwy1f8wb0b", "5raktdiwnwkxxqbt236r9mrda", "11n956a4mhaczxrq24r9ei8kb" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : 1.7178465127944946,
+          "y" : -1.3187865018844604,
+          "z" : -3.7209782749414444E-4
+        },
+        "pano" : {
+          "id" : "n0tyz69y5ff6zci048nq8sgeb",
+          "sweepUuid" : "e14bba7f95a442cb9219fe6afdab2055",
+          "label" : "13",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 1.7178465127944946,
+            "y" : -1.3187865018844604,
+            "z" : 1.5267060995101929
+          },
+          "rotation" : {
+            "x" : 9.33455303311348E-4,
+            "y" : 0.004876798018813133,
+            "z" : 0.9999854564666748,
+            "w" : -0.0021028972696512938
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/e14bba7f95a442cb9219fe6afdab2055_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/e14bba7f95a442cb9219fe6afdab2055/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/e14bba7f95a442cb9219fe6afdab2055_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/e14bba7f95a442cb9219fe6afdab2055/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/e14bba7f95a442cb9219fe6afdab2055_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/e14bba7f95a442cb9219fe6afdab2055/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "srbbm7q73dn5p9idwy1f8wb0b",
+        "index" : 16,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "xy2x8mpaaqknp7q2c3nnbw1ma",
+          "meshId" : 4
+        },
+        "neighbors" : [ "3y1hm7sswgzw7dx1rhhedh64b", "a2i4q4qgrhg5utf5cwi9m3pac", "zmitfkbhwhpuhs7ga6mzxcbuc", "3k03auwx742s56uuy10cxdg6d", "64rdrbretezt63pn0s4te185d", "n0tyz69y5ff6zci048nq8sgeb", "rux401gx724wxnckcapqfzkya", "sxseq6aw03g2yqzh1h2q0gpzc" ],
+        "tags" : [ "showcase", "vr" ],
+        "position" : {
+          "x" : 3.0680572986602783,
+          "y" : -1.26156747341156,
+          "z" : 7.92061211541295E-4
+        },
+        "pano" : {
+          "id" : "srbbm7q73dn5p9idwy1f8wb0b",
+          "sweepUuid" : "dac79eb7aa0845cf9b065e2de921a3ec",
+          "label" : "16",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 3.0680572986602783,
+            "y" : -1.26156747341156,
+            "z" : 1.5198404788970947
+          },
+          "rotation" : {
+            "x" : 0.006128699518740177,
+            "y" : 4.676294338423759E-4,
+            "z" : 0.7043063044548035,
+            "w" : 0.7098696827888489
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/dac79eb7aa0845cf9b065e2de921a3ec_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/dac79eb7aa0845cf9b065e2de921a3ec/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/dac79eb7aa0845cf9b065e2de921a3ec_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/dac79eb7aa0845cf9b065e2de921a3ec/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/dac79eb7aa0845cf9b065e2de921a3ec_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/dac79eb7aa0845cf9b065e2de921a3ec/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "2ri0cric05u0kty9fbsntsz4c",
+        "index" : 21,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "tt6gm2a0463x9wmnx7rn6gugc",
+          "meshId" : 5
+        },
+        "neighbors" : [ "akbzsiad9z6b2q5mbu6ty9msd", "0ei717kypx6s1k7rymxnfkd3b", "6wc4s0728yked80cytk6u0k6c" ],
+        "tags" : [ "showcase" ],
+        "position" : {
+          "x" : 2.758946180343628,
+          "y" : 3.1150553226470947,
+          "z" : 0.47584113478660583
+        },
+        "pano" : {
+          "id" : "2ri0cric05u0kty9fbsntsz4c",
+          "sweepUuid" : "b4776121c2b241d8ad55f05bc25fd209",
+          "label" : "21",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 2.758946180343628,
+            "y" : 3.1150553226470947,
+            "z" : 1.5645177364349365
+          },
+          "rotation" : {
+            "x" : 0.0015204891096800566,
+            "y" : -7.635385263711214E-4,
+            "z" : -0.02198082208633423,
+            "w" : 0.999756932258606
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/b4776121c2b241d8ad55f05bc25fd209_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/b4776121c2b241d8ad55f05bc25fd209/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/b4776121c2b241d8ad55f05bc25fd209_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/b4776121c2b241d8ad55f05bc25fd209/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/b4776121c2b241d8ad55f05bc25fd209_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/b4776121c2b241d8ad55f05bc25fd209/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "5raktdiwnwkxxqbt236r9mrda",
+        "index" : 17,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "613htqkzf66zz7hf7n8kzszed",
+          "meshId" : 2
+        },
+        "neighbors" : [ "3y1hm7sswgzw7dx1rhhedh64b", "a2i4q4qgrhg5utf5cwi9m3pac", "zmitfkbhwhpuhs7ga6mzxcbuc", "3k03auwx742s56uuy10cxdg6d", "n0tyz69y5ff6zci048nq8sgeb", "rux401gx724wxnckcapqfzkya", "sxseq6aw03g2yqzh1h2q0gpzc", "akbzsiad9z6b2q5mbu6ty9msd", "6wc4s0728yked80cytk6u0k6c", "efrs393ba5i0strk5st9sq79c", "5rsn5rg0y6wnerdczas8ens6a", "nyk31zfs4qitminrwpw76s5pa", "ya4ddnxpphxd1d5d83zwt1zua" ],
+        "tags" : [ "showcase", "vr" ],
+        "position" : {
+          "x" : 4.371606826782227,
+          "y" : -0.1108219251036644,
+          "z" : -0.0021319424267858267
+        },
+        "pano" : {
+          "id" : "5raktdiwnwkxxqbt236r9mrda",
+          "sweepUuid" : "9a64b920704841db81b95f77338805b3",
+          "label" : "17",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 4.371606826782227,
+            "y" : -0.1108219251036644,
+            "z" : 1.530968189239502
+          },
+          "rotation" : {
+            "x" : 0.0014558747643604875,
+            "y" : 0.0031367624178528786,
+            "z" : 0.9999823570251465,
+            "w" : 0.004836249630898237
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/9a64b920704841db81b95f77338805b3_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/9a64b920704841db81b95f77338805b3/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/9a64b920704841db81b95f77338805b3_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/9a64b920704841db81b95f77338805b3/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/9a64b920704841db81b95f77338805b3_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/9a64b920704841db81b95f77338805b3/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "5rsn5rg0y6wnerdczas8ens6a",
+        "index" : 26,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "613htqkzf66zz7hf7n8kzszed",
+          "meshId" : 2
+        },
+        "neighbors" : [ "3y1hm7sswgzw7dx1rhhedh64b", "a2i4q4qgrhg5utf5cwi9m3pac", "3k03auwx742s56uuy10cxdg6d", "rux401gx724wxnckcapqfzkya", "sxseq6aw03g2yqzh1h2q0gpzc", "5raktdiwnwkxxqbt236r9mrda", "efrs393ba5i0strk5st9sq79c", "u1tgpfppxtphd0b5s9th3swta", "nyk31zfs4qitminrwpw76s5pa", "ya4ddnxpphxd1d5d83zwt1zua" ],
+        "tags" : [ "showcase", "vr" ],
+        "position" : {
+          "x" : 6.869791507720947,
+          "y" : -0.09417539089918137,
+          "z" : -0.0011424766853451729
+        },
+        "pano" : {
+          "id" : "5rsn5rg0y6wnerdczas8ens6a",
+          "sweepUuid" : "5cb94b19db5b4ddb8e3d64f3c1510dc4",
+          "label" : "26",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 6.869791507720947,
+            "y" : -0.09417539089918137,
+            "z" : 1.5297787189483643
+          },
+          "rotation" : {
+            "x" : 0.0010300278663635254,
+            "y" : 0.0023304461501538754,
+            "z" : 0.999884307384491,
+            "w" : 0.014996287412941456
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/5cb94b19db5b4ddb8e3d64f3c1510dc4_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/5cb94b19db5b4ddb8e3d64f3c1510dc4/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/5cb94b19db5b4ddb8e3d64f3c1510dc4_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/5cb94b19db5b4ddb8e3d64f3c1510dc4/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/5cb94b19db5b4ddb8e3d64f3c1510dc4_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/5cb94b19db5b4ddb8e3d64f3c1510dc4/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "u1tgpfppxtphd0b5s9th3swta",
+        "index" : 27,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "h26t7ky77ew74yb0pg8qqf5rd",
+          "meshId" : 6
+        },
+        "neighbors" : [ "efrs393ba5i0strk5st9sq79c", "5rsn5rg0y6wnerdczas8ens6a", "11n956a4mhaczxrq24r9ei8kb", "4mzumpt1022khq3e10prnxnmd", "a6xyteeh42tewmw8mwcgfhuhc", "t2p23smyyts79xmz8xtes8pbc" ],
+        "tags" : [ "showcase", "vr" ],
+        "position" : {
+          "x" : 7.146237850189209,
+          "y" : 1.0002871751785278,
+          "z" : -0.003977291751652956
+        },
+        "pano" : {
+          "id" : "u1tgpfppxtphd0b5s9th3swta",
+          "sweepUuid" : "3b213630ac3442f18849f93c3efd86c3",
+          "label" : "27",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 7.146237850189209,
+            "y" : 1.0002871751785278,
+            "z" : 1.5402063131332397
+          },
+          "rotation" : {
+            "x" : 0.0047720568254590034,
+            "y" : -5.299284821376204E-4,
+            "z" : -0.7228289246559143,
+            "w" : 0.6910102963447571
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/3b213630ac3442f18849f93c3efd86c3_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/3b213630ac3442f18849f93c3efd86c3/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/3b213630ac3442f18849f93c3efd86c3_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/3b213630ac3442f18849f93c3efd86c3/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/3b213630ac3442f18849f93c3efd86c3_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/3b213630ac3442f18849f93c3efd86c3/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      }, {
+        "id" : "11n956a4mhaczxrq24r9ei8kb",
+        "index" : 28,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0
+        },
+        "room" : {
+          "id" : "h26t7ky77ew74yb0pg8qqf5rd",
+          "meshId" : 6
+        },
+        "neighbors" : [ "n0tyz69y5ff6zci048nq8sgeb", "u1tgpfppxtphd0b5s9th3swta", "4mzumpt1022khq3e10prnxnmd", "a6xyteeh42tewmw8mwcgfhuhc", "t2p23smyyts79xmz8xtes8pbc" ],
+        "tags" : [ "showcase", "vr" ],
+        "position" : {
+          "x" : 8.526962280273438,
+          "y" : 1.181457281112671,
+          "z" : -0.0034867841750383377
+        },
+        "pano" : {
+          "id" : "11n956a4mhaczxrq24r9ei8kb",
+          "sweepUuid" : "100ead039bfa4ef794f904fbb586ba75",
+          "label" : "28",
+          "placement" : "auto",
+          "source" : "vision",
+          "position" : {
+            "x" : 8.526962280273438,
+            "y" : 1.181457281112671,
+            "z" : 1.546033263206482
+          },
+          "rotation" : {
+            "x" : 5.057057132944465E-4,
+            "y" : 0.003143647685647011,
+            "z" : 0.9999634027481079,
+            "w" : 0.007942792028188705
+          },
+          "resolutions" : [ "low", "high", "2k" ],
+          "skyboxes" : [ {
+            "resolution" : "low",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/low/~/100ead039bfa4ef794f904fbb586ba75_skybox<face>.jpg?t=2-c93b41991198d726cb4b4852437795b9aa6c8e50-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Flow",
+            "tileResolution" : "512",
+            "tileCount" : 1,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/100ead039bfa4ef794f904fbb586ba75/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "high",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/high/~/100ead039bfa4ef794f904fbb586ba75_skybox<face>.jpg?t=2-516c9a80eb7c931ca5cbea65595463399c6312e8-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2Fhigh",
+            "tileResolution" : "512",
+            "tileCount" : 2,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/100ead039bfa4ef794f904fbb586ba75/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          }, {
+            "resolution" : "2k",
+            "status" : "available",
+            "urlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/pan/2k/~/100ead039bfa4ef794f904fbb586ba75_skybox<face>.jpg?t=2-11f542e01443438826ad33832133e41009366102-1768420492-1&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets%2Fpan%2F2k",
+            "tileResolution" : "512",
+            "tileCount" : 4,
+            "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/100ead039bfa4ef794f904fbb586ba75/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
+            "validUntil" : "2026-01-14T19:54:52Z"
+          } ]
+        }
+      } ]
+    }
+  }
+}

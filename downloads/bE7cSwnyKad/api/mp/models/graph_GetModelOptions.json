@@ -1,0 +1,12 @@
+{
+  "errors" : [ {
+    "message" : "PersistedQueryNotFound",
+    "locations" : [ ],
+    "extensions" : {
+      "persistedQueryId" : "48765f4d53c1700521382c03034c1b67e63b9bdc6cccdc6c4e853620cd9c74c7",
+      "details" : "APQ cache miss for 48765f4d53c1700521382c03034c1b67e63b9bdc6cccdc6c4e853620cd9c74c7",
+      "code" : "apq.cache.miss",
+      "classification" : "PersistedQueryNotFound"
+    }
+  } ]
+}
