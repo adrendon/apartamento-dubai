@@ -23,7 +23,7 @@
         "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
         "type" : "photo2D",
         "origin" : "vision",
-        "validUntil" : "2026-01-14T19:54:51Z",
+        "validUntil":"2099-01-01T19:54:51Z",
         "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/xEeQXKs98JH/xEeQXKs98JH-Kitchen.jpg?t=2-227297dcb6967bec34903aebd982881e047645bd-1768420491-1&width=200&height=140&fit=crop&disable=upscale",
         "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/xEeQXKs98JH/xEeQXKs98JH-Kitchen.jpg?t=2-227297dcb6967bec34903aebd982881e047645bd-1768420491-1&width=1920&height=1080&fit=crop&disable=upscale",
         "snapshotLocation" : {

@@ -53,7 +53,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/d98ee3374dd24300a0332afa242d9611/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -61,7 +61,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/d98ee3374dd24300a0332afa242d9611/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -69,7 +69,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/d98ee3374dd24300a0332afa242d9611/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -115,7 +115,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/4a8d5974200d420ea183391aea7f9b83/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -123,7 +123,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/4a8d5974200d420ea183391aea7f9b83/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -131,7 +131,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/4a8d5974200d420ea183391aea7f9b83/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -177,7 +177,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/ebe14a29f9c34310a0b3cf2427eaaa7f/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -185,7 +185,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/ebe14a29f9c34310a0b3cf2427eaaa7f/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -193,7 +193,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/ebe14a29f9c34310a0b3cf2427eaaa7f/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -239,7 +239,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/1ccec64d631e481488d6f09573e1ec77/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -247,7 +247,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/1ccec64d631e481488d6f09573e1ec77/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -255,7 +255,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/1ccec64d631e481488d6f09573e1ec77/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -301,7 +301,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/0f2bf1810fa84520b7abf48722156db8/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -309,7 +309,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/0f2bf1810fa84520b7abf48722156db8/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -317,7 +317,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/0f2bf1810fa84520b7abf48722156db8/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -363,7 +363,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/46373f11def145238ec18e96240cb66b/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -371,7 +371,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/46373f11def145238ec18e96240cb66b/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -379,7 +379,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/46373f11def145238ec18e96240cb66b/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -425,7 +425,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/96b1d99af6d44e2e8a26a56b00248973/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -433,7 +433,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/96b1d99af6d44e2e8a26a56b00248973/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -441,7 +441,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/96b1d99af6d44e2e8a26a56b00248973/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -487,7 +487,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/7e35d9ca20cd4939be187315af48c79b/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -495,7 +495,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/7e35d9ca20cd4939be187315af48c79b/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -503,7 +503,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/7e35d9ca20cd4939be187315af48c79b/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -549,7 +549,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/38f453358a57463c80e458ba88cc7cf1/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -557,7 +557,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/38f453358a57463c80e458ba88cc7cf1/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -565,7 +565,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/38f453358a57463c80e458ba88cc7cf1/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -611,7 +611,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/02250c83a913454cb3a6e7bdb1a31525/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -619,7 +619,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/02250c83a913454cb3a6e7bdb1a31525/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -627,7 +627,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/02250c83a913454cb3a6e7bdb1a31525/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -673,7 +673,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/8b0f238525824155a88453aab80375e7/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -681,7 +681,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/8b0f238525824155a88453aab80375e7/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -689,7 +689,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/8b0f238525824155a88453aab80375e7/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -735,7 +735,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/4e316bc18a8d455ab52e6b732d7265a7/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -743,7 +743,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/4e316bc18a8d455ab52e6b732d7265a7/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -751,7 +751,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/4e316bc18a8d455ab52e6b732d7265a7/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -797,7 +797,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/8b92cab0d736425ba625d8d1729f696f/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -805,7 +805,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/8b92cab0d736425ba625d8d1729f696f/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -813,7 +813,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/8b92cab0d736425ba625d8d1729f696f/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -859,7 +859,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/2269ec76cfd04a5cae26d1e261415bc3/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -867,7 +867,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/2269ec76cfd04a5cae26d1e261415bc3/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -875,7 +875,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/2269ec76cfd04a5cae26d1e261415bc3/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -921,7 +921,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/854902382e1b4b5cbdfae4869f65b33c/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -929,7 +929,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/854902382e1b4b5cbdfae4869f65b33c/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -937,7 +937,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/854902382e1b4b5cbdfae4869f65b33c/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -983,7 +983,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/fcdd83ed105f425d87a7357b16eed8d5/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -991,7 +991,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/fcdd83ed105f425d87a7357b16eed8d5/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -999,7 +999,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/fcdd83ed105f425d87a7357b16eed8d5/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -1045,7 +1045,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/56bfd09b32f64a6f9dbe47e1d872cfb9/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -1053,7 +1053,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/56bfd09b32f64a6f9dbe47e1d872cfb9/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -1061,7 +1061,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/56bfd09b32f64a6f9dbe47e1d872cfb9/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -1107,7 +1107,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/c1b369038d234e6faab0d66e0f73d5b4/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -1115,7 +1115,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/c1b369038d234e6faab0d66e0f73d5b4/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -1123,7 +1123,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/c1b369038d234e6faab0d66e0f73d5b4/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -1169,7 +1169,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/2431a39090a44f80a3c4e530a4af4952/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -1177,7 +1177,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/2431a39090a44f80a3c4e530a4af4952/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -1185,7 +1185,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/2431a39090a44f80a3c4e530a4af4952/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -1231,7 +1231,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/0e0f6d43e812468a83c39a87dec715ca/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -1239,7 +1239,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/0e0f6d43e812468a83c39a87dec715ca/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -1247,7 +1247,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/0e0f6d43e812468a83c39a87dec715ca/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -1293,7 +1293,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/821ba796b7ca468b866dfcec99272d0a/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -1301,7 +1301,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/821ba796b7ca468b866dfcec99272d0a/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -1309,7 +1309,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/821ba796b7ca468b866dfcec99272d0a/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -1355,7 +1355,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/7755ada58a664b8cbe1c9b346a3fc70b/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -1363,7 +1363,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/7755ada58a664b8cbe1c9b346a3fc70b/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -1371,7 +1371,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/7755ada58a664b8cbe1c9b346a3fc70b/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -1417,7 +1417,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/87b0b011cbcc4e939f15774eb4e67ac9/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -1425,7 +1425,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/87b0b011cbcc4e939f15774eb4e67ac9/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -1433,7 +1433,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/87b0b011cbcc4e939f15774eb4e67ac9/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -1479,7 +1479,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/7f26ca27b7ea40969c8d255cd5477537/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -1487,7 +1487,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/7f26ca27b7ea40969c8d255cd5477537/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -1495,7 +1495,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/7f26ca27b7ea40969c8d255cd5477537/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -1541,7 +1541,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/954d27bfaa3d4e999d70e321ceebcc7d/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -1549,7 +1549,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/954d27bfaa3d4e999d70e321ceebcc7d/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -1557,7 +1557,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/954d27bfaa3d4e999d70e321ceebcc7d/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -1603,7 +1603,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/b23600e7f97b48a4aff5affc1fb4ba0f/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -1611,7 +1611,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/b23600e7f97b48a4aff5affc1fb4ba0f/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -1619,7 +1619,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/b23600e7f97b48a4aff5affc1fb4ba0f/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -1665,7 +1665,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/29d20ddb5e834fa49942b56206d4cc0a/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -1673,7 +1673,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/29d20ddb5e834fa49942b56206d4cc0a/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -1681,7 +1681,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/29d20ddb5e834fa49942b56206d4cc0a/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -1727,7 +1727,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/663ee1924b3c4dabb4d07a6ef613c378/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -1735,7 +1735,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/663ee1924b3c4dabb4d07a6ef613c378/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -1743,7 +1743,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/663ee1924b3c4dabb4d07a6ef613c378/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -1789,7 +1789,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/3c54d97384944ab1a575f9ca57e207cd/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -1797,7 +1797,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/3c54d97384944ab1a575f9ca57e207cd/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -1805,7 +1805,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/3c54d97384944ab1a575f9ca57e207cd/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -1851,7 +1851,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/197d181aa8174ebfb9a832ea1431e3d6/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -1859,7 +1859,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/197d181aa8174ebfb9a832ea1431e3d6/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -1867,7 +1867,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/197d181aa8174ebfb9a832ea1431e3d6/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -1913,7 +1913,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/e14bba7f95a442cb9219fe6afdab2055/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -1921,7 +1921,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/e14bba7f95a442cb9219fe6afdab2055/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -1929,7 +1929,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/e14bba7f95a442cb9219fe6afdab2055/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -1975,7 +1975,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/dac79eb7aa0845cf9b065e2de921a3ec/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -1983,7 +1983,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/dac79eb7aa0845cf9b065e2de921a3ec/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -1991,7 +1991,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/dac79eb7aa0845cf9b065e2de921a3ec/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -2037,7 +2037,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/b4776121c2b241d8ad55f05bc25fd209/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -2045,7 +2045,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/b4776121c2b241d8ad55f05bc25fd209/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -2053,7 +2053,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/b4776121c2b241d8ad55f05bc25fd209/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -2099,7 +2099,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/9a64b920704841db81b95f77338805b3/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -2107,7 +2107,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/9a64b920704841db81b95f77338805b3/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -2115,7 +2115,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/9a64b920704841db81b95f77338805b3/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -2161,7 +2161,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/5cb94b19db5b4ddb8e3d64f3c1510dc4/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -2169,7 +2169,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/5cb94b19db5b4ddb8e3d64f3c1510dc4/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -2177,7 +2177,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/5cb94b19db5b4ddb8e3d64f3c1510dc4/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -2223,7 +2223,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/3b213630ac3442f18849f93c3efd86c3/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -2231,7 +2231,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/3b213630ac3442f18849f93c3efd86c3/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -2239,7 +2239,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/3b213630ac3442f18849f93c3efd86c3/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       }, {
@@ -2285,7 +2285,7 @@
             "tileResolution" : "512",
             "tileCount" : 1,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/100ead039bfa4ef794f904fbb586ba75/512_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "high",
             "status" : "available",
@@ -2293,7 +2293,7 @@
             "tileResolution" : "512",
             "tileCount" : 2,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/100ead039bfa4ef794f904fbb586ba75/1k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           }, {
             "resolution" : "2k",
             "status" : "available",
@@ -2301,7 +2301,7 @@
             "tileResolution" : "512",
             "tileCount" : 4,
             "tileUrlTemplate" : "https://cdn-2.matterport.com/models/9971a09ba12c4fa983769371bcded150/assets/~/tiles/100ead039bfa4ef794f904fbb586ba75/2k_face<face>_<x>_<y>.jpg?t=2-721b7b4f8f6912db219125e49feaa282200fb067-1768420492-0&k=models%2F9971a09ba12c4fa983769371bcded150%2Fassets",
-            "validUntil" : "2026-01-14T19:54:52Z"
+            "validUntil" : "2099-01-01T19:54:52Z"
           } ]
         }
       } ]

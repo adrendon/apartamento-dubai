@@ -19,7 +19,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "user",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/dGHHS3QfkmP/12.30.2025_11.17.34.jpg?t=2-898c3ff0c4dd7a0d1f9de90a330dfc359b95298f-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/dGHHS3QfkmP/12.30.2025_11.17.34.jpg?t=2-898c3ff0c4dd7a0d1f9de90a330dfc359b95298f-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -65,7 +65,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "user",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/vWpJnjmSm6b/12.30.2025_11.16.06.jpg?t=2-06aef4f7a81231f12d12f83777e65659c513b239-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/vWpJnjmSm6b/12.30.2025_11.16.06.jpg?t=2-06aef4f7a81231f12d12f83777e65659c513b239-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -111,7 +111,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "vision",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/2aDQV5CaGrV/2aDQV5CaGrV-Dollhouse_View.jpg?t=2-9b75aab9341c36eaf75d0c44eb6792bb8224a2e5-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/2aDQV5CaGrV/2aDQV5CaGrV-Dollhouse_View.jpg?t=2-9b75aab9341c36eaf75d0c44eb6792bb8224a2e5-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -147,7 +147,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "vision",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/onMmmDePG5s/onMmmDePG5s-Bedroom.jpg?t=2-86872a9b92b41616105aeb30a56db0d9bb09b30c-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/onMmmDePG5s/onMmmDePG5s-Bedroom.jpg?t=2-86872a9b92b41616105aeb30a56db0d9bb09b30c-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -189,7 +189,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "user",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/s9W7k9Xonoh/12.30.2025_11.16.19.jpg?t=2-3d81c7a7b81e513c35cf2f9d3643a2f898187b2f-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/s9W7k9Xonoh/12.30.2025_11.16.19.jpg?t=2-3d81c7a7b81e513c35cf2f9d3643a2f898187b2f-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -235,7 +235,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "vision",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/AP9LbqwP5cm/AP9LbqwP5cm-Bedroom.jpg?t=2-59093bd8f92820c481f83872aba0154bd0964bc8-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/AP9LbqwP5cm/AP9LbqwP5cm-Bedroom.jpg?t=2-59093bd8f92820c481f83872aba0154bd0964bc8-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -277,7 +277,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "vision",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/U9CUD8G5M7N/U9CUD8G5M7N-Bedroom.jpg?t=2-70766cc0ac5cf99a6e32d9db8229a1d745c64d0f-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/U9CUD8G5M7N/U9CUD8G5M7N-Bedroom.jpg?t=2-70766cc0ac5cf99a6e32d9db8229a1d745c64d0f-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -319,7 +319,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "vision",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/WDx8JkNbQ3y/WDx8JkNbQ3y-Office.jpg?t=2-7825ac3a237cb710200debc4e17465a520497858-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/WDx8JkNbQ3y/WDx8JkNbQ3y-Office.jpg?t=2-7825ac3a237cb710200debc4e17465a520497858-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -361,7 +361,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "user",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/6LDSxiNcz2m/12.30.2025_11.17.05.jpg?t=2-341f84474ab1234bf15282bcd792b7b77efb5784-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/6LDSxiNcz2m/12.30.2025_11.17.05.jpg?t=2-341f84474ab1234bf15282bcd792b7b77efb5784-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -407,7 +407,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "vision",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/692inGUWEJL/692inGUWEJL-Kitchen.jpg?t=2-46cc2507c36a228eb34f0a1a0feadbed640505d4-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/692inGUWEJL/692inGUWEJL-Kitchen.jpg?t=2-46cc2507c36a228eb34f0a1a0feadbed640505d4-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -449,7 +449,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "vision",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/xEeQXKs98JH/xEeQXKs98JH-Kitchen.jpg?t=2-fbe8d05d2cb7d661d791cf6baf527c9f9951f3e9-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/xEeQXKs98JH/xEeQXKs98JH-Kitchen.jpg?t=2-fbe8d05d2cb7d661d791cf6baf527c9f9951f3e9-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -491,7 +491,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "user",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/CoRtBJgEkZ4/12.30.2025_11.17.46.jpg?t=2-c7f5ca3d9741854fe928e64be9175993044a1cc3-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/CoRtBJgEkZ4/12.30.2025_11.17.46.jpg?t=2-c7f5ca3d9741854fe928e64be9175993044a1cc3-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -537,7 +537,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "user",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/CsQCSjpGjB3/12.30.2025_11.17.12.jpg?t=2-31eea9aa02dd1a558d4d70150853269d20f47a48-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/CsQCSjpGjB3/12.30.2025_11.17.12.jpg?t=2-31eea9aa02dd1a558d4d70150853269d20f47a48-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -583,7 +583,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "vision",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/EwXxc4yJszx/EwXxc4yJszx-Bathroom.jpg?t=2-c75589695d1d68289835d5ba716f5345b805a44e-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/EwXxc4yJszx/EwXxc4yJszx-Bathroom.jpg?t=2-c75589695d1d68289835d5ba716f5345b805a44e-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -625,7 +625,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "user",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/FwJmUoh3RGM/12.30.2025_12.09.04.jpg?t=2-bd71d3869735b33f78eff5a8dd3acaf77674042c-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/FwJmUoh3RGM/12.30.2025_12.09.04.jpg?t=2-bd71d3869735b33f78eff5a8dd3acaf77674042c-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -671,7 +671,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "user",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/6ke5jJoUYsc/12.30.2025_11.17.40.jpg?t=2-05990332dbe8d87f488cc6145b5030123ab368f9-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/6ke5jJoUYsc/12.30.2025_11.17.40.jpg?t=2-05990332dbe8d87f488cc6145b5030123ab368f9-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -717,7 +717,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "user",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/62QR8EEyVPN/12.30.2025_11.16.58.jpg?t=2-9ff5d15f6b5647be627bc08e3c76915e5a83dc4d-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/62QR8EEyVPN/12.30.2025_11.16.58.jpg?t=2-9ff5d15f6b5647be627bc08e3c76915e5a83dc4d-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -763,7 +763,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "user",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/7QgQ5ksRuyg/12.30.2025_11.18.21.jpg?t=2-f5d4e5c52adf7be955fe3367dd46c4929113b860-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/7QgQ5ksRuyg/12.30.2025_11.18.21.jpg?t=2-f5d4e5c52adf7be955fe3367dd46c4929113b860-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -809,7 +809,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "user",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/aB22Eo6KjKK/12.30.2025_11.16.12.jpg?t=2-110542812d6d443b5ed79b66083971313845f39a-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/aB22Eo6KjKK/12.30.2025_11.16.12.jpg?t=2-110542812d6d443b5ed79b66083971313845f39a-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -855,7 +855,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "vision",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/cdPAaScWtuH/cdPAaScWtuH-Bedroom.jpg?t=2-c98f3004dd38f7a8c60b334c4262b80cce6f91e5-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/cdPAaScWtuH/cdPAaScWtuH-Bedroom.jpg?t=2-c98f3004dd38f7a8c60b334c4262b80cce6f91e5-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -897,7 +897,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "user",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/jFTmFGuM38r/12.30.2025_11.16.45.jpg?t=2-baf3abf9196845382d6307007461513037e7ffa9-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/jFTmFGuM38r/12.30.2025_11.16.45.jpg?t=2-baf3abf9196845382d6307007461513037e7ffa9-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -943,7 +943,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "user",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/j7eoJ3jzTJi/12.30.2025_11.17.57.jpg?t=2-32a3a0e41d1a9d7d24ec6c3bf01ec60bf23cc00e-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/j7eoJ3jzTJi/12.30.2025_11.17.57.jpg?t=2-32a3a0e41d1a9d7d24ec6c3bf01ec60bf23cc00e-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -989,7 +989,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "user",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/khMxG2GbeYe/12.30.2025_11.16.38.jpg?t=2-864a26d19e1e5019201e6ea23fb76b7529c0513e-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/khMxG2GbeYe/12.30.2025_11.16.38.jpg?t=2-864a26d19e1e5019201e6ea23fb76b7529c0513e-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -1035,7 +1035,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "user",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/k7nL4CmyakV/12.30.2025_11.16.32.jpg?t=2-4de9b8d3db798cefef928d1af7544ce543974d19-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/k7nL4CmyakV/12.30.2025_11.16.32.jpg?t=2-4de9b8d3db798cefef928d1af7544ce543974d19-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -1081,7 +1081,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "vision",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/R3hzyntdTUg/R3hzyntdTUg-Bathroom.jpg?t=2-43f0bc7bdbb0ed81a315b3f2d2ab2a6358d156d8-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/R3hzyntdTUg/R3hzyntdTUg-Bathroom.jpg?t=2-43f0bc7bdbb0ed81a315b3f2d2ab2a6358d156d8-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
@@ -1123,7 +1123,7 @@
           "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
           "type" : "photo2D",
           "origin" : "user",
-          "validUntil" : "2026-01-14T19:54:52Z",
+          "validUntil" : "2099-01-01T19:54:52Z",
           "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/Wt3LqdFHrXV/12.30.2025_11.17.22.jpg?t=2-d7745a27105f1cec1f452717dca6e2ef1fdc7297-1768420492-1&width=200&height=140&fit=crop&disable=upscale",
           "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/bE7cSwnyKad/images/Wt3LqdFHrXV/12.30.2025_11.17.22.jpg?t=2-d7745a27105f1cec1f452717dca6e2ef1fdc7297-1768420492-1&width=1920&height=1080&fit=crop&disable=upscale",
           "snapshotLocation" : {
