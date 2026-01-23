@@ -31,7 +31,20 @@ function resolveIndexFile() {
   return "";
 }
 
+
 app.use(express.json({ limit: "10mb" }));
+
+// Middleware para registrar accesos a archivos .jpg
+app.use((req, res, next) => {
+  if (req.path.match(/\.jpg$/i)) {
+    const logPath = path.join(__dirname, 'jpg-access-log.txt');
+    const logLine = `${new Date().toISOString()} ${req.path}\n`;
+    fs.appendFile(logPath, logLine, err => {
+      if (err) console.error('Error escribiendo log de jpg:', err);
+    });
+  }
+  next();
+});
 
 app.get("/JSNetProxy.js", (req, res) => {
   const proxyPath = path.join(__dirname, "JSNetProxy.js");

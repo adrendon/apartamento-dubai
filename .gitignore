@@ -2,3 +2,8 @@ node_modules/
 .DS_Store
 Thumbs.db
 .vercel
+
+# Ignorar archivos de logs, scripts y carpeta de imágenes movidas
+*.txt
+*.py
+jpg-movidos/
