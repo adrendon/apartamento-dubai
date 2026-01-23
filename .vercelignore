@@ -1,0 +1,8 @@
+# Ignorar archivos y carpetas grandes o innecesarios para el despliegue
+node_modules/
+*.log
+*.tmp
+.vscode/
+.git/
+.gitignore
+.env
