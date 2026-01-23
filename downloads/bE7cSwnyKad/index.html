@@ -106,7 +106,10 @@
       outline: none;
     }
   </style>
-  <script src="https://static.matterport.com/webgl-vendors/three/0.176.0/three.min.js"></script>
+  <script type="module">
+    import * as three from "https://unpkg.com/three@0.176.0/build/three.module.js";
+    window.THREE = three;
+  </script>
   <script defer src="js/runtime~showcase.js"></script><script defer src="js/packages-nova-ui.js"></script><script defer src="js/cwf-core.js"></script><script defer src="js/packages-cwf-core.js"></script><script defer src="js/packages-cwf-util.js"></script><script defer src="js/vendors-react.js"></script><script defer src="js/vendors-common.js"></script><script defer src="js/showcase.js"></script><link href="css/packages-nova-ui.css" rel="stylesheet"><link href="css/showcase.css" rel="stylesheet">
 </head>
 
